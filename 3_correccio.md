@@ -1,11 +1,10 @@
-```markdown
-# Ressenya d'Arcane
+# Reseña de Arcane
 
-La sèrie d'animació basada en League of Legends és *molt* **espectacular**. M'ha encantat l'estil d'animació steampunk, i la banda sonora. Sobretot la cançó principal d'Imagine Dragons.
+La serie de animación basada en League of Legends es *muy* **espectacular**. Me ha encantado el estilo de animación steampunk, y la banda sonora. Sobre todo la canción principal de Imagine Dragons.
 
-Pots veure el tràiler oficial aquí: [YouTube](https://youtube.com)
+Puedes ver el tráiler oficial aquí: [YouTube](https://youtube.com)
 
-Llista de personatges principals:
+Lista de personajes principales:
 + Vi
 + Jinx
 + Caitlyn
