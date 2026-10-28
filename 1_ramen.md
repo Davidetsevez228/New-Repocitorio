@@ -1,16 +1,16 @@
-# Com preparar un bo i ràpid Ramen Instantani
+# Cómo preparar un buen y rápido Ramen Instantáneo
 
-> Una recepta senzilla i deliciosa per a un àpat ràpid.
+> Una receta sencilla y deliciosa para una comida rápida.
 
-Per preparar aquest plat, necessitem uns bons **fideus orientals** i afegir-hi el nostre *topping* preferit al final.
+Para preparar este plato, necesitamos unos buenos **fideos orientales** y añadir nuestro *topping* favorito al final.
 
-## Ingredients
-* Paquet de ramen
-* ou
-* ceba tendra
-* formatge fos
+## Ingredientes
+- Paquete de ramen
+- Huevo
+- Cebolla tierna / Cebolleta
+- Queso fundido
 
-## Passos
-- [x] Posar aigua a bullir.
-- [ ] Coure els fideus exactament 3 minuts.
-- [ ] Afegir l'ou i el formatge perquè es fonguin amb el brou.
+## Pasos
+- [x] Poner agua a hervir.
+- [ ] Cocer los fideos exactamente 3 minutos.
+- [ ] Añadir el huevo y el queso para que se fundan con el caldo.
